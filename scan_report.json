@@ -1,0 +1,10 @@
+{
+    "target": "10.0.1.50",
+    "status": "Critical",
+    "open_ports": [
+        22,
+        80,
+        443
+    ],
+    "is_admin_exposed": true
+}

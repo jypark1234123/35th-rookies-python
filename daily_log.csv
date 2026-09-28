@@ -1,0 +1,4 @@
+﻿target,event,severity
+방화벽,포트 스캔,High
+IPS,SQL Injection,Critical
+WAF,XSS Attempt,Medium

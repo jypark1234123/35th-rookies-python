@@ -1,0 +1,8 @@
+Hostname2,IP_Address,Status,Last_Check
+prd-web-01,192.168.1.10,Safe,2026-08-29
+prd-db-02,192.168.1.20,Vulnerable,2026-08-29
+prd-api-04,192.168.1.30,Safe,2026-08-29
+호스트명,IP_Address,Status,Last_Check
+prd-web-01,192.168.1.10,Safe,2026-08-29
+prd-db-02,192.168.1.20,Vulnerable,2026-08-29
+prd-api-04,192.168.1.30,Safe,2026-08-29
